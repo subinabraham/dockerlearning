@@ -1,1 +1,3 @@
-# dockerlearning
+# maven-project
+
+Simple Maven Project
